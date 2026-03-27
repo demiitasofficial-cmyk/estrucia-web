@@ -43,4 +43,43 @@
   "私": "Alviora", "僕": "Lunethar", "俺": "Lunethar", "わたくし": "Ilaya",
   "自分": "Ryala", "あたし": "Sylvora", "君": "Thyra", "あなた": "Thyra",
   "彼": "Ryna", "彼女": "Ryna", "それ": "Oryn"
+
+  "空": "Cyrelth", "天": "Cyrelth",
+  "大地": "Teryal", "土": "Teryal",
+  "火": "Fyreth", "炎": "Fyreth",
+  "風": "Vynel",
+  "星": "Estyria",
+  "太陽": "Solareth",
+  "月": "Luvina",
+  "雨": "Pluviel",
+  "雪": "Nivieth",
+  "花": "Fylira",
+
+  "街": "Civieth", "都市": "Civieth",
+  "城": "Castoria", "砦": "Castoria",
+  "店": "Vanyria", "市場": "Vanyria",
+  "金": "Argyn", "硬貨": "Argyn", "お金": "Argyn",
+  "本": "Livyra", "書物": "Livyra",
+  "剣": "Gladyth", "武器": "Gladyth",
+  "魔法": "Magieth", "魔力": "Magieth",
+  "時間": "Tymel", "刻": "Tymel",
+  "命": "Vythia", "生命": "Vythia",
+  "死": "Moryth",
+  "魂": "Aniryth",
+
+  "読む": "Livyrel",
+  "寝る": "Dorymel", "眠る": "Dorymel",
+  "買う": "Vanyral",
+  "与える": "Donyrel",
+  "作る": "Farynel", "創造する": "Farynel",
+  "思う": "Penythil", "考える": "Penythil",
+  "知る": "Savirel", "分かる": "Savirel", "わかる": "Savirel",
+  "愛する": "Amaryth",
+
+  "良い": "Bonyth",
+  "悪い": "Malveth",
+  "新しい": "Novyrel",
+  "古い": "Vyeth",
+  "重い": "Gravyth",
+  "軽い": "Levyria"
 }
